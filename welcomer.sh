@@ -21,3 +21,20 @@ echo -ne "===[\]==="
 sleep 0.5
 clear
 echo -ne "===[|]==="
+sleep 0.5
+clear
+echo -ne "==[ | ]=="
+sleep 0.5
+clear
+echo -ne "=[  |  ]="
+sleep 0.5
+clear
+echo -ne "[   |    ]"
+sleep 0.5
+clear
+echo -ne "–        –"
+sleep 0.5
+clear
+echo -ne ".         ."
+sleep 0.5
+clear
